@@ -13,9 +13,9 @@ import com.structurizr.view.*;
  */
 public class Structurizr {
 
-    private static final long WORKSPACE_ID = 1234;
-    private static final String API_KEY = "key";
-    private static final String API_SECRET = "secret";
+    private static final long WORKSPACE_ID = 39130;
+    private static final String API_KEY = "d9accf67-4d16-47f0-b6e7-5ef3ffb34b2f ";
+    private static final String API_SECRET = "62abb84b-4e21-4169-8eb7-28d6d76770cd";
 
     public static void main(String[] args) throws Exception {
         // a Structurizr workspace is the wrapper for a software architecture model, views and documentation
